@@ -1,6 +1,8 @@
 # request-broadcast
 
-An AWS Component to boradcast HTTP requests to N subscribers.
+![CI](https://github.com/aleixmorgadas/request-broadcaster/workflows/CI/badge.svg)
+
+An AWS Component to broadcast HTTP requests to N subscribers.
 
 ## How it works
 
