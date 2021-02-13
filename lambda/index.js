@@ -1,3 +1,3 @@
-exports.handler = async (event, context, callback) => {
-    
+exports.handler = async (event, context) => {
+    return "Hello World";
 }
