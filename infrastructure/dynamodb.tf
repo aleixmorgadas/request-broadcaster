@@ -20,7 +20,7 @@ resource "aws_dynamodb_table" "registered_devices" {
   }
 
   lifecycle {
-    prevent_destroy = var.prevent_destroy_registered_devices_table
+    prevent_destroy = false
   }
 }
 
