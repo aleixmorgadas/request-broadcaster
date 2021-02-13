@@ -2,7 +2,7 @@
   "name": "request-broadcaster-cli",
   "version": "0.0.1",
   "description": "Client to register the self host to the request-broadcaster lambda",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "doc": "docs"
   },
