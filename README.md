@@ -12,3 +12,6 @@ An AWS Component to boradcast HTTP requests to N subscribers.
 3. Lambda fetches all registered devices from DynamoDB
 4. Replies the HTTP Call to all registered devices (fire and forget)
 
+## Warnings
+
+:warning: This components might incur in your AWS Bill. It shouldn't be a lot, but depends on the traffic you have.

@@ -1,0 +1,31 @@
+{
+  "name": "request-broadcaster-cli",
+  "version": "0.0.1",
+  "description": "Client to register the self host to the request-broadcaster lambda",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleixmorgadas/request-broadcaster.git"
+  },
+  "keywords": [
+    "request",
+    "broadcast",
+    "api",
+    "cli"
+  ],
+  "author": "Aleix Morgadas <aleix.morgadas@pm.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleixmorgadas/request-broadcaster/issues"
+  },
+  "homepage": "https://github.com/aleixmorgadas/request-broadcaster#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
