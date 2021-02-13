@@ -138,3 +138,5 @@ override.tf.json
 # example: *tfplan*
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform
+
+infrastructure/lambda_function_payload.zip
